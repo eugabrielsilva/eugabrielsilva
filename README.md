@@ -1,5 +1,3 @@
-# Gabriel Silva
-
 <img src="https://media1.tenor.com/images/2d550e48e5fabf33543b51e4d8ccb335/tenor.gif?itemid=16269826" height="50">
 
 Hello there!
