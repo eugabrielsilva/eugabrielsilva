@@ -9,8 +9,8 @@ Welcome to my GitHub! Feel free to explore some of my projects and get in touch 
 ### 🤖 My main projects
 - [Glowie Framework](https://github.com/glowieframework) - A powerful and lightweight PHP MVC framework for developing applications and dynamic websites.
 - [ButterDocs](https://github.com/eugabrielsilva/butterdocs) - Lightweight documentation website generator written in PHP.
-- [InstaScraper](https://github.com/eugabrielsilva/InstaScraper) - PHP profile scraper for Instagram without using the API.
 - [Resizr](https://github.com/eugabrielsilva/resizr) - Simple and easy to use image resizer and thumb generator for PHP.
+- [rapidSQL](https://github.com/eugabrielsilva/rapidSQL) - Asynchronous MySQL wrapper for Node.js.
 - [pyprotect.js](https://github.com/eugabrielsilva/pyprotect.js) - Python code obfuscator for Node.js.
 
 ### 📓 Portfolio
