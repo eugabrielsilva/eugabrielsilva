@@ -14,7 +14,7 @@ Welcome to my GitHub! Feel free to explore some of my projects and get in touch 
 - [pyprotect.js](https://github.com/eugabrielsilva/pyprotect.js) - Python code obfuscator for Node.js.
 
 ### 📓 Portfolio
-[Click here](https://eugabrielsilva.tk/portfolio) to see my website portfolio (mainly in Brazilian Portuguese).
+[Click here](https://eugabrielsilva.tk) to see my website portfolio.
 
 ### 🥰 Things I love
 - [x] PHP
@@ -25,3 +25,4 @@ Welcome to my GitHub! Feel free to explore some of my projects and get in touch 
 
 ### 🤢 Things I hate
 - [ ] Boring people
+- [ ] ~~Java~~
