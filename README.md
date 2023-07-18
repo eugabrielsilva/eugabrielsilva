@@ -1,6 +1,6 @@
 ## Hello World!
 
-My name is Gabriel, a brazilian web developer and technology enthusiast. I'm a System Analysis and Development student with experience in web-related projects.
+My name is Gabriel, a brazilian web developer and technology enthusiast. I'm a System Analysis and Development degree and postgraduate degree in Software Engineering, with experience in web-related projects.
 
 Welcome to my GitHub! Feel free to explore some of my projects and get in touch if you have any questions!
 
@@ -10,6 +10,7 @@ Welcome to my GitHub! Feel free to explore some of my projects and get in touch 
 - [Resizr](https://github.com/eugabrielsilva/resizr) - Simple and easy to use image resizer and thumb generator for PHP.
 - [rapidSQL](https://github.com/eugabrielsilva/rapidSQL) - Asynchronous MySQL wrapper for Node.js.
 - [pyprotect.js](https://github.com/eugabrielsilva/pyprotect.js) - Python code obfuscator for Node.js.
+- [SQLDumper](https://github.com/eugabrielsilva/sql-dumper) - SQL backup dumper made in pure PHP.
 
 ### Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=eugabrielsilva&count_private=true&show_icons=true)
