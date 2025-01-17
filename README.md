@@ -13,6 +13,6 @@ Welcome to my GitHub! Feel free to explore some of my projects and get in touch 
 - [SQLDumper](https://github.com/eugabrielsilva/sql-dumper) - SQL backup dumper made in pure PHP.
 
 ### Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=eugabrielsilva&count_private=true&show_icons=true&theme=dracula&rank_icon=github&include_all_commits=true&custom_title=My+Stats)
+![Stats](https://github-readme-stats-omega-murex-78.vercel.app/api?username=eugabrielsilva&count_private=true&show_icons=true&theme=dracula&rank_icon=github&include_all_commits=true&custom_title=My+Stats)
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eugabrielsilva&layout=donut&theme=dracula)
+![Stats](https://github-readme-stats-omega-murex-78.vercel.app/api/top-langs/?username=eugabrielsilva&layout=donut&theme=dracula)
