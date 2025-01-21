@@ -6,7 +6,7 @@ Welcome to my GitHub! Feel free to explore some of my projects and get in touch 
 
 ### My main skills
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,javascript,react,angular,mysql,aws)](https://skillicons.dev)
+![Skills](https://skillicons.dev/icons?i=php,laravel,javascript,react,angular,mysql,aws&theme=dark)
 
 ### My main projects
 - [Glowie Framework](https://github.com/glowieframework) - A powerful and lightweight PHP MVC framework ecosystem for developing applications and dynamic websites.
