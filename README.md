@@ -1,11 +1,16 @@
 ## Hello World!
 
-My name is Gabriel, a brazilian web developer and technology enthusiast. I'm a System Analysis and Development degree and postgraduate degree in Software Engineering, with experience in web-related projects.
+My name is Gabriel, a brazilian web developer and technology enthusiast. I'm a System Analysis and Development degree and postgraduate degree in Software Engineering, with large experience in web-related projects.
 
 Welcome to my GitHub! Feel free to explore some of my projects and get in touch if you have any questions.
 
+### My main skills
+
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,javascript,react,angular,mysql,aws)](https://skillicons.dev)
+
 ### My main projects
-- [Glowie Framework](https://github.com/glowieframework) - A powerful and lightweight PHP MVC framework for developing applications and dynamic websites.
+- [Glowie Framework](https://github.com/glowieframework) - A powerful and lightweight PHP MVC framework ecosystem for developing applications and dynamic websites.
+- [WhatsApp API](https://github.com/eugabrielsilva/whatsapp-api) - An unofficial free WhatsApp API server written in Typescript.
 - [ButterDocs](https://github.com/eugabrielsilva/butterdocs) - Lightweight documentation website generator written in PHP.
 - [Resizr](https://github.com/eugabrielsilva/resizr) - Simple and easy to use image resizer and thumb generator for PHP.
 - [rapidSQL](https://github.com/eugabrielsilva/rapidSQL) - Asynchronous MySQL wrapper for Node.js.
